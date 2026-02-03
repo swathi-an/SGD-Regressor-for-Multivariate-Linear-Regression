@@ -101,6 +101,11 @@ plt.title("House Size vs House Price (Actual vs Predicted)")
 plt.legend()
 plt.show()
 
+<img width="497" height="726" alt="image" src="https://github.com/user-attachments/assets/2e57b073-06b4-45ac-b5c8-9bf588492bf9" />
+
+<img width="631" height="471" alt="image" src="https://github.com/user-attachments/assets/9b01ff6e-029c-4d5b-8a0d-0bb1f6c3c349" />
+
+
 ## Output:
 <img width="858" height="787" alt="image" src="https://github.com/user-attachments/assets/8bbc5b57-26f2-4ad7-84bd-3a4e7471a9d2" />
 
